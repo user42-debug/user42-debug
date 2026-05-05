@@ -15,7 +15,7 @@ I'm a french student who loves coding and theoretical CS.
 
 ### ✨ Quick Facts
 
-- 🌱 I’m currently learning cryptography and cyber-security  
+- 🌱 I’m currently learning machine learning and deep learning
 - 💬 Ask me anything related to ML, Python, C++, Data Structures and Algorithms (*after googling it* 😜)  
 - ⚡ Fun Fact: I can cook real carbonara  
 - 🎿 Hobbies other than coding: Chess, Running, Mathematics  
